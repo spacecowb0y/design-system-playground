@@ -52,7 +52,7 @@ export default props => {
       <Figure
         img="/img/chakra.png"
         alt="Chakra UI project website"
-        href="https://rebassjs.org/"
+        href="https://chakra-ui.com/"
       >
         <Link
           sx={{ fontSize: 0, fontStyle: "italic" }}
